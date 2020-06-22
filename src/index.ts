@@ -44,3 +44,5 @@ export { default as WhatsappIcon } from './WhatsappIcon';
 export { default as WhatsappShareButton } from './WhatsappShareButton';
 export { default as WorkplaceIcon } from './WorkplaceIcon';
 export { default as WorkplaceShareButton } from './WorkplaceShareButton';
+export { default as objectToGetParams  } from './utils/objectToGetParams';
+export { default as createShareButton } from './hocs/createShareButton';
